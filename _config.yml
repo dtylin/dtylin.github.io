@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: API Jobned.com
+title: Aviator
 description: Jekyll template for API documentation.
-url: https://jobned.com
+url: https://example.com
 google_analytics_key:
 permalink: pretty
 baseurl:
